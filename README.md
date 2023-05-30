@@ -4,4 +4,8 @@ It includes resources for generating mind-blowing animation.
 ## GreenSock
 - [Docs](https://greensock.com)
 ### Codepen
-- https://codepen.io/khushij12/pen/WNaBXBw
+- https://codepen.io/khushij12/pen/WNaBXBw 🟠
+
+# FYI
+🟠 - Working on it
+🔵 - Done
