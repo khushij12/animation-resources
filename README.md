@@ -1,10 +1,17 @@
 # animation-resources
 It includes resources for generating mind-blowing animation.
 
-## GreenSock
+## Library
+### GreenSock
 - [Docs](https://greensock.com)
-### Codepen
+#### Codepen
 - https://codepen.io/khushij12/pen/WNaBXBw 🟠
+
+## UI effect
+### Parallax Effect
+#### codepen
+- https://codepen.io/isladjan/pen/abdyPBw 
+
 
 # FYI
 🟠 - Working on it
