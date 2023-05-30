@@ -9,4 +9,5 @@ HTML
 JS
 ```js
 const IS_PRESSED = document.querySelector("button").matches("[aria-pressed=true]");
+BUTTON.setAttribute("aria-pressed", IS_PRESSED ? false : true);
 ```
