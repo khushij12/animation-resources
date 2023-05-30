@@ -31,7 +31,7 @@ It includes resources for generating mind-blowing animation.
   <h3 align="center">Animation Resources</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+<!--     An awesome README template to jumpstart your projects! -->
     <br />
 <!--     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a> -->
     <br />
@@ -51,7 +51,7 @@ It includes resources for generating mind-blowing animation.
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">https://greensock.com/</a>
+      [GreenSock](https://greensock.com/)
 <!--       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul> -->
@@ -73,7 +73,7 @@ It includes resources for generating mind-blowing animation.
 </details>
 
 
-
+<!-- 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -139,7 +139,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+ -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
